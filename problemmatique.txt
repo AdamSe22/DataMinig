@@ -1,0 +1,6 @@
+## Problématique de Régression : Améliorer les Performances des Étudiants
+Question principale : Quels sont les facteurs clés influençant les performances scolaires des étudiants, et comment peuvent-ils être utilisés pour prédire leurs résultats finaux ?
+
+-Identifier les variables ayant le plus grand impact sur la réussite scolaire.
+-Prévoir les résultats futurs des étudiants et intervenir de manière proactive.
+-Proposer des recommandations basées sur des preuves pour améliorer les approches pédagogiques.
