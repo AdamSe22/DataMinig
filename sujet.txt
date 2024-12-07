@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/rkiattisak/student-performance-in-mathematics
+https://www.kaggle.com/datasets/yasserh/student-marks-dataset	
+https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
+https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression
