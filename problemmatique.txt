@@ -3,4 +3,3 @@ Question principale : Quels sont les facteurs clés influençant les performance
 
 -Identifier les variables ayant le plus grand impact sur la réussite scolaire.
 -Prévoir les résultats futurs des étudiants et intervenir de manière proactive.
--Proposer des recommandations basées sur des preuves pour améliorer les approches pédagogiques.
