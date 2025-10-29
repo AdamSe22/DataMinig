@@ -109,30 +109,6 @@ L’objectif est d’identifier les variables les plus déterminantes pour la r�
 
 ---
 
-## 🚀 Exécution du Projet
-
-### 1️⃣ Cloner le dépôt :
-```bash
-git clone https://github.com/adam-serghini/student-performance-prediction.git
-cd student-performance-prediction
-```
-
-### 2️⃣ Installer les dépendances :
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Lancer le notebook :
-```bash
-jupyter notebook Student_Performance_Model.ipynb
-```
-ou exécuter le script principal :
-```bash
-python student_performance.py
-```
-
----
-
 ## 🧾 Bibliothèques Utilisées
 - **pandas**
 - **numpy**
@@ -147,7 +123,7 @@ python student_performance.py
 **Adam Serghini**  
 Étudiant ingénieur passionné par la **Data Science** et l’**Intelligence Artificielle**  
 
-📧 [LinkedIn](https://www.linkedin.com/in/adam-serghini)
+📧 [LinkedIn](https://www.linkedin.com/in/adam-serghini-767b47273)
 
 ---
 
