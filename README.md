@@ -120,8 +120,11 @@ L’objectif est d’identifier les variables les plus déterminantes pour la r�
 ---
 
 ## 👨‍💻 Auteur
+
 **Adam Serghini**  
-Étudiant ingénieur passionné par la **Data Science** et l’**Intelligence Artificielle**  
+Ingénieur passionné par la **Data Science** et l’**Intelligence Artificielle**.  
+Titulaire d’un **Master 2 en Intelligence Artificielle (IA)**.  
+
 
 📧 [LinkedIn](https://www.linkedin.com/in/adam-serghini-767b47273)
 
